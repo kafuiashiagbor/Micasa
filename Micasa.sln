@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Micasa", "Micasa\Micasa.vbproj", "{66EE6509-3EA8-4F5C-8E69-9E68C4F34CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EE6509-3EA8-4F5C-8E69-9E68C4F34CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE6509-3EA8-4F5C-8E69-9E68C4F34CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE6509-3EA8-4F5C-8E69-9E68C4F34CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EE6509-3EA8-4F5C-8E69-9E68C4F34CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {621902AC-A5D2-49BD-A4EA-A7CCE34FE39B}
+	EndGlobalSection
+EndGlobal
